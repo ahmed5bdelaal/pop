@@ -1,0 +1,111 @@
+  <style>
+
+  html body{
+              margin: 0;
+              padding: 0;
+              background-image: url(S5bKt4s.jpg);
+
+             }
+             .table{
+
+              background-color: #FFF;
+
+             }
+             .input{
+
+                position: absolute;
+                display: block;
+                border-radius:10px;
+                width: 350px;
+                margin: 0 auto;
+                text-align: center;
+                background-color: rgba(0,0,0, .2);
+                padding: 10px;
+                top: 15%;
+                left: 35%;
+                font-weight: bold;
+             }
+             .i1 {
+              width:300px;
+              height:35px;
+              border-radius:8px;
+              text-align: center;
+              box-sizing: border-box;
+              padding: 0 18px;
+              border:none ;
+              margin: 5px 0;
+              background: #ccffeb; 
+
+             }
+
+            .i5 {
+              width:300px;
+              height:35px;
+              border-radius:8px;
+              text-align: center;
+              box-sizing: border-box;
+              padding: 0 18px;
+              border:none ;
+              margin-top: 30px;
+              background: #01bed6; 
+
+             }
+            .i6 {
+              width:300px;
+              height:35px;
+              border-radius:8px;
+              text-align: center;
+              box-sizing: border-box;
+              padding: 0 18px;
+              border:none ;
+              margin: 5px 0;
+              /*background: #FF0000;*/ 
+              font-weight: bold;
+              font-size: 15px;
+              color: #FF0000;
+             }
+              .i5:hover{
+              background-color:#00ff00;
+              font-weight: bold;
+
+              }
+              
+              .menu{
+                width: 1349px;
+                background-color:#00ff00;
+                height:70px;
+                display: inline-block;
+              
+              }
+                .m1 {
+              width:300px;
+              height:35px;
+              font-weight: bold;
+              
+              text-align: center;
+              
+              padding: 0 18px;
+              border:none ;
+              margin:0 auto;
+              position:relative;
+              left: 300px;
+              top:-35px;
+              display: inline-block;
+
+            }
+            .l1{
+              display: inline-block;
+              position:relative;
+              top: 8px;      
+              margin:0 50px;
+              font-size: 30px;
+              font-weight: bold;
+            }
+            .post{
+
+            margin: 20px;
+            border-radius:50px;
+
+            }
+            
+          </style>
